@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @SentinelCodes
+- 👀 I’m interested in development of codes realated to Aerospace Engineering...
+- 🌱 I’m currently learning Javascript, Php and python to make my own website...
+- 📫 For any query, please email on sentinelcodes123@gmail.com....
+
+<!---
+SentinelCodes/SentinelCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
